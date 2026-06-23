@@ -61,10 +61,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=APT-Lucky&theme=tokyonight&hide_border=true&ring=8957e5&fire=8957e5&currStreakLabel=8957e5" alt="Streak stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=APT-Lucky&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
-</p>
-
 ---
 
 <p align="center">
