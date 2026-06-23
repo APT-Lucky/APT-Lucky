@@ -72,7 +72,7 @@
 ### 3D Contributions
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D contribution graph" />
+  <img src="./profile-3d-contrib/profile-customize.svg" alt="3D contribution graph" />
 </p>
 
 ---
