@@ -11,13 +11,9 @@
 
 ---
 
-### About me
-
-- making **Riftbound** — cartoon coop ARPG in UE5, building it from scratch
-- cheat dev: internals, kernel drivers, figuring out how AC works
-- pentesting & red team on the side
-- reversing binaries and malware whenever something interesting crosses my desk
-- mostly C++ and low-level stuff
+<p align="center">
+  <img src="./assets/terminal.svg" alt="Terminal" />
+</p>
 
 ---
 
@@ -63,6 +59,12 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=APT-Lucky&theme=tokyo-night&hide_border=true&color=8957e5&line=8957e5&point=ffffff" alt="Activity graph" />
+</p>
+
+---
+
+<p align="center">
+  <img src="./assets/matrix.svg" alt="Matrix" />
 </p>
 
 ---
