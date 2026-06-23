@@ -11,11 +11,11 @@
 
 ### About me
 
-- Building **Riftbound** — 3D cartoon coop-looter ARPG in **Unreal Engine 5.8**
-- Cheat development: internal & external, kernel-level drivers, anti-cheat research
-- Penetration testing — red team ops, exploit development, C2 infrastructure, network recon
-- Malware analysis & reverse engineering — static/dynamic analysis, decompilation, binary patching
-- Low-level C++ and engine internals, clean system architecture
+- making **Riftbound** — cartoon coop ARPG in UE5, building it from scratch
+- cheat dev: internals, kernel drivers, figuring out how AC works
+- pentesting & red team on the side
+- reversing binaries and malware whenever something interesting crosses my desk
+- mostly C++ and low-level stuff
 
 ---
 
