@@ -18,14 +18,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: |
-            {
-              "githubUserName": "APT-Lucky",
-              "startForegroundColor": "#8957e5",
-              "endForegroundColor": "#1f6feb",
-              "bgColor": "#0d1117",
-              "type": "season-animate"
-            }
+          SETTING_JSON: settings/3d-contrib.json
 
       - name: Commit and push
         run: |
