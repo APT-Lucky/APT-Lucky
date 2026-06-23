@@ -69,6 +69,20 @@
 
 ---
 
+### 3D Contributions
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D contribution graph" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev quote" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/APT-Lucky/APT-Lucky/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>

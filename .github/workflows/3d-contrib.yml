@@ -1,0 +1,36 @@
+name: Generate 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: |
+            {
+              "githubUserName": "APT-Lucky",
+              "startForegroundColor": "#8957e5",
+              "endForegroundColor": "#1f6feb",
+              "bgColor": "#0d1117",
+              "type": "season-animate"
+            }
+
+      - name: Commit and push
+        run: |
+          git config user.email "APT-Lucky@users.noreply.github.com"
+          git config user.name "Lucky"
+          git add -A
+          git diff --cached --quiet || git commit -m "chore: update 3D contribution graph"
+          git push
