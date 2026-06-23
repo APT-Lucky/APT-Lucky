@@ -17,6 +17,14 @@
 
 ---
 
+### Currently Building
+
+<p align="center">
+  <img src="./assets/riftbound-card.svg" alt="Riftbound" />
+</p>
+
+---
+
 ### Languages
 
 <p align="center">
@@ -53,6 +61,16 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=APT-Lucky&theme=tokyonight&hide_border=true&ring=8957e5&fire=8957e5&currStreakLabel=8957e5" alt="Streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=APT-Lucky&theme=tokyonight" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=APT-Lucky&theme=tokyonight" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=APT-Lucky&theme=tokyonight" alt="Commits per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=APT-Lucky&theme=tokyonight&utcOffset=2" alt="Productive time" />
 </p>
 
 ---

@@ -1,0 +1,59 @@
+<svg width="640" height="165" viewBox="0 0 640 165" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="prog" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8957e5"/>
+      <stop offset="100%" stop-color="#58a6ff"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Card -->
+  <rect width="640" height="165" rx="8" fill="#161b22"/>
+  <!-- Left accent -->
+  <rect width="5" height="165" rx="2" fill="#8957e5"/>
+
+  <!-- Title -->
+  <text x="22" y="44" font-family="'Segoe UI','Arial',sans-serif" font-size="24" font-weight="700" fill="#e6edf3" letter-spacing="2">RIFTBOUND</text>
+
+  <!-- IN DEVELOPMENT badge -->
+  <rect x="190" y="27" width="138" height="22" rx="11" fill="#388bfd18" stroke="#388bfd44" stroke-width="1"/>
+  <text x="259" y="42" font-family="'Segoe UI','Arial',sans-serif" font-size="10" font-weight="600" fill="#58a6ff" text-anchor="middle" letter-spacing="0.5">IN DEVELOPMENT</text>
+
+  <!-- Subtitle -->
+  <text x="22" y="68" font-family="'Segoe UI','Arial',sans-serif" font-size="13" fill="#8b949e">3D Cartoon Coop-Looter ARPG &#xB7; Unreal Engine 5.8</text>
+
+  <!-- Progress label + % -->
+  <text x="22" y="94" font-family="'Segoe UI','Arial',sans-serif" font-size="11" fill="#6e7681">Progress</text>
+  <text x="515" y="94" font-family="'Segoe UI','Arial',sans-serif" font-size="11" fill="#8957e5" text-anchor="end">15%</text>
+
+  <!-- Progress bar -->
+  <rect x="22" y="100" width="495" height="7" rx="3.5" fill="#21262d"/>
+  <rect x="22" y="100" width="74" height="7" rx="3.5" fill="url(#prog)"/>
+
+  <!-- Tags -->
+  <rect x="22" y="122" width="38" height="22" rx="5" fill="#0e1117" stroke="#30363d" stroke-width="1"/>
+  <text x="41" y="137" font-family="'Segoe UI','Arial',sans-serif" font-size="11" fill="#e6edf3" text-anchor="middle">UE5</text>
+
+  <rect x="68" y="122" width="38" height="22" rx="5" fill="#0e1117" stroke="#30363d" stroke-width="1"/>
+  <text x="87" y="137" font-family="'Segoe UI','Arial',sans-serif" font-size="11" fill="#e6edf3" text-anchor="middle">C++</text>
+
+  <rect x="114" y="122" width="40" height="22" rx="5" fill="#0e1117" stroke="#30363d" stroke-width="1"/>
+  <text x="134" y="137" font-family="'Segoe UI','Arial',sans-serif" font-size="11" fill="#e6edf3" text-anchor="middle">MCP</text>
+
+  <rect x="162" y="122" width="44" height="22" rx="5" fill="#0e1117" stroke="#30363d" stroke-width="1"/>
+  <text x="184" y="137" font-family="'Segoe UI','Arial',sans-serif" font-size="11" fill="#e6edf3" text-anchor="middle">Coop</text>
+
+  <rect x="214" y="122" width="54" height="22" rx="5" fill="#da363318" stroke="#da363344" stroke-width="1"/>
+  <text x="241" y="137" font-family="'Segoe UI','Arial',sans-serif" font-size="11" fill="#f85149" text-anchor="middle">Private</text>
+
+  <!-- Right: Rift portal glow -->
+  <ellipse cx="596" cy="82" rx="36" ry="58" fill="none" stroke="#8957e5" stroke-width="0.7" opacity="0.2"/>
+  <ellipse cx="596" cy="82" rx="26" ry="42" fill="none" stroke="#8957e5" stroke-width="1" opacity="0.35"/>
+  <ellipse cx="596" cy="82" rx="17" ry="28" fill="none" stroke="#8957e5" stroke-width="1.2" opacity="0.55"/>
+  <ellipse cx="596" cy="82" rx="9" ry="15" fill="#8957e522" stroke="#8957e5" stroke-width="1.5" opacity="0.9"/>
+  <!-- Energy sparks -->
+  <line x1="560" y1="54" x2="551" y2="44" stroke="#8957e5" stroke-width="1" opacity="0.35"/>
+  <line x1="632" y1="54" x2="641" y2="44" stroke="#8957e5" stroke-width="1" opacity="0.35"/>
+  <line x1="560" y1="110" x2="551" y2="120" stroke="#8957e5" stroke-width="1" opacity="0.35"/>
+  <line x1="632" y1="110" x2="641" y2="120" stroke="#8957e5" stroke-width="1" opacity="0.35"/>
+  <line x1="556" y1="82" x2="636" y2="82" stroke="#8957e5" stroke-width="0.5" opacity="0.15"/>
+</svg>
